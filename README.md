@@ -27,7 +27,7 @@ const thierno = {
     </td>
     <td align="center" width="33%">
       <h3>⚡ Backend Power</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,graphql,fastapi" />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,graphql,fastapi,dotnet" />
     </td>
     <td align="center" width="33%">
       <h3>🔧 DevOps Excellence</h3>
